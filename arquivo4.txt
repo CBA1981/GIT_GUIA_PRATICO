@@ -1,2 +1,7 @@
 linha 1
+<<<<<<< HEAD
 linha 2 - alterado pelo repositorio local
+=======
+linha 2 - alterado por outra pessoa
+linha 3
+>>>>>>> 2c252ce2f77f25f1dfea618cd24eb963dad05565
